@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Giftease</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="loginbtn">loginBtn</string>
+    <string name="login">login</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="buy">Buy</string>
+    <string name="buy2">Buy</string>
+    <string name="buy3">Buy</string>
+    <string name="accessories">accessories</string>
+    <string name="flawers">flawers</string>
+    <string name="choclate">choclate</string>
+    <string name="buy4">Buy</string>
+    <string name="accessories2">accessories</string>
+</resources>
